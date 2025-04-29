@@ -1,0 +1,8 @@
+[
+  {
+    "username": "test@test.com",
+    "password": "123456789",
+    "signUpMessage": "You successfully signed up!",
+    "loginMessage": "You are logged in!"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "appium:platformVersion": "15",
+  "appium:UDID": "emulator-5554",
+  "appium:deviceName": "pixel_fold",
+  "appium:automationName": "UiAutomator2",
+  "appium:app": "${appPath}",
+  "appium:ignoreHiddenApiPolicyError": true
+}

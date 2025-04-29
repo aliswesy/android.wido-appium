@@ -1,0 +1,7 @@
+[
+  {
+    "inputText": "test input text",
+    "switchMessage": "Click to turn the switch OFF",
+    "dropDownOption": "Appium is awesome"
+  }
+]

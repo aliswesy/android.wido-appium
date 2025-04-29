@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Appium Test Suite">
+    <test name="Regression Test">
+        <classes>
+
+            <class name="com.foodics.test.SignUpAndLoginTest"/>
+            <class name="com.foodics.test.FormsTest"/>
+            <class name="com.foodics.test.SwipeTest"/>
+
+        </classes>
+    </test>
+</suite>
